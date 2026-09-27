@@ -27,3 +27,5 @@
 * Run the crimes.ipynb Jupyter Notebook to execute the data cleaning pipeline and generate the Cleaned_Chicago_Crime.csv file locally.
 
 * Open Chicago_Crime_Dashboard.pbix in Power BI and refresh the data source to view the visualizations.
+
+* **Interactive Dashboard:** [Click here to download/view the Power BI Dashboard](https://drive.google.com/file/d/1xs5ez_dGYISnXlLjNWtq3t0ldTTjZIUs/view?usp=sharing)
